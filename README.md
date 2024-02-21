@@ -8,34 +8,36 @@
 
 #### Creacion de pagina web
 
-    ![1](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/1.gif)
+![1](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/1.gif)
 
----
+___
 
 #### Creacion de bucket publico
 
-    ![2](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/2.gif)
+![2](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/2.gif)
 
----
+___
 
 #### Carga de archivos (Estos son los del build)
 
-    ![3](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/3.gif)
+![3](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/3.gif)
 
----
+___
 
 #### Creacion de permisos
 
-    ![5](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/5.gif)
+![5](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/5.gif)
 
----
+___
 
 #### Pagina web
 
-    ![4](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/4.gif)
+![4](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/4.gif)
 
----
+___
 
 ### Mostramos pagina web
 
-    ![7](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/7.gif)
+![7](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/7.gif)
+
+___
