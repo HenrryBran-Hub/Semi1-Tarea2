@@ -1,6 +1,6 @@
 # Semi1-Tarea2
 
-![6](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/10.png)
+![6](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/6.png)
 
 ## Link de pagina
 
@@ -8,34 +8,34 @@
 
 #### Creacion de pagina web
 
-    ![1](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/1.gif)
+    ![1](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/1.gif)
 
 ---
 
 #### Creacion de bucket publico
 
-    ![2](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/2.gif)
+    ![2](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/2.gif)
 
 ---
 
 #### Carga de archivos (Estos son los del build)
 
-    ![3](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/3.gif)
+    ![3](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/3.gif)
 
 ---
 
 #### Creacion de permisos
 
-    ![5](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/5.gif)
+    ![5](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/5.gif)
 
 ---
 
 #### Pagina web
 
-    ![4](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/4.gif)
+    ![4](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/4.gif)
 
 ---
 
 ### Mostramos pagina web
 
-    ![7](https://github.com/HenrryBran-Hub/so1_actividades_201314439/blob/main/actividad3/Img/7.gif)
+    ![7](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/7.gif)
