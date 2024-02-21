@@ -25,8 +25,8 @@ ___
 ___
 
 #### Creacion de permisos
-___
-![5](https://github.com/HenrryBran-Hub/Semi1-Tarea2/tree/main/Img/7.gif)
+
+![3](https://github.com/HenrryBran-Hub/Semi1-Tarea2/blob/main/Img/3.gif)
 
 ___
 
